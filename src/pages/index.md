@@ -218,7 +218,7 @@ seo:
       value: Kasur SPEQ
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: Bergaransi 15 tahun
       keyName: property
     - name: 'og:image'
       value: images/discount1-c48c3580.jpg
