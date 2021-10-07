@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Order
+    title: Form Order
     subtitle: Fill out the form below and I will get in touch within 1 business day.
     align: center
     padding_top: medium
