@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Form Order
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: Sikahkan isi form order di bawah ini
     align: center
     padding_top: medium
     padding_bottom: medium
