@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Anda ingin tidur sehat?
-    subtitle: 'Kasur SPEQ mencegah sakit tulang punggung,'
+    subtitle: >-
+      Kasur SPEQ mencegah sakit tulang punggung, sejuk ketika digunakan pada
+      udara sedikit panas,
     actions:
       - label: Contact Me
         url: /contact
