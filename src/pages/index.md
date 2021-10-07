@@ -8,7 +8,7 @@ sections:
       udara sedikit panas, membahagiakan keluarga, mampu memberikan kenyamanan
       pada tidur anda.
     actions:
-      - label: Contact Me
+      - label: Order Sekarang
         url: /contact
         style: primary
     image: images/hero.png
