@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Anda ingin tidur sehat?
-    subtitle: Kasur SPEQ
+    subtitle: 'Kasur SPEQ mencegah sakit tulang punggung,'
     actions:
       - label: Contact Me
         url: /contact
