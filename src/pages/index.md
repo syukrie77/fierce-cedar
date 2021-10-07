@@ -221,7 +221,7 @@ seo:
       value: The preview of the Personal theme
       keyName: property
     - name: 'og:image'
-      value: images/personal-preview.png
+      value: images/discount1-c48c3580.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
