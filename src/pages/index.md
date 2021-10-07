@@ -209,7 +209,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Kasur Busa SPEQ
-  description: The preview of the Personal theme
+  description: Kasur busa SPEQ Garansi 15 tahun
   extra:
     - name: 'og:type'
       value: website
